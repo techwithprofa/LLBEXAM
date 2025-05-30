@@ -1,0 +1,66 @@
+{
+  "scores": [
+    {
+      "gameId": "dwxjydtzz",
+      "gameName": "ස්ථිර වෙනසක් සහිත අනුක්‍රම ",
+      "totalScore": 40,
+      "scores": [
+        {
+          "questionId": 1,
+          "points": 10,
+          "usedHint": false,
+          "correct": false,
+          "timeTaken": 2
+        },
+        {
+          "questionId": 2,
+          "points": 10,
+          "usedHint": false,
+          "correct": false,
+          "timeTaken": 0
+        },
+        {
+          "questionId": 3,
+          "points": 10,
+          "usedHint": false,
+          "correct": false,
+          "timeTaken": 2
+        },
+        {
+          "questionId": 4,
+          "points": 10,
+          "usedHint": false,
+          "correct": true,
+          "timeTaken": 0
+        }
+      ],
+      "questionsAttempted": 4,
+      "totalQuestions": 5,
+      "timestamp": "2025-02-03T09:25:38.955Z"
+    },
+    {
+      "gameId": "dwxjydtzz",
+      "gameName": "ස්ථිර වෙනසක් සහිත අනුක්‍රම ",
+      "totalScore": 0,
+      "scores": [
+        {
+          "questionId": 1,
+          "points": 0,
+          "usedHint": false,
+          "correct": false,
+          "timeTaken": 0
+        },
+        {
+          "questionId": 1,
+          "points": 0,
+          "usedHint": false,
+          "correct": false,
+          "timeTaken": 0
+        }
+      ],
+      "questionsAttempted": 2,
+      "totalQuestions": 5,
+      "timestamp": "2025-02-04T07:14:46.028Z"
+    }
+  ]
+}
